@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.duytue.finalproject.PlaceActivity">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar_place"
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize"
+        app:navigationIcon="?attr/homeAsUpIndicator">
+
+    </android.support.v7.widget.Toolbar>
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <Spinner
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:id="@+id/spinSort"
+        android:layout_alignParentRight="true"
+        ></Spinner>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:paddingRight="10dp"
+        android:text="Sort by"
+        android:textColor="#0080FF"
+        android:id="@+id/tv_sortby"
+        android:layout_toLeftOf="@id/spinSort"
+        />
+
+    <FrameLayout
+        android:id="@+id/content"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_below="@id/spinSort"
+        android:layout_alignParentBottom="true"
+        android:background="#EEEEEE">
+
+
+        <android.support.v7.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/recyclerView"
+            android:layout_marginTop="4dp">
+
+
+        </android.support.v7.widget.RecyclerView>
+
+
+
+
+
+
+    </FrameLayout>
+</RelativeLayout>
+</LinearLayout>

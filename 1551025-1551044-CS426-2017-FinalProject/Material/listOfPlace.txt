@@ -1,0 +1,171 @@
+﻿
+    "place": [
+      {
+	"placeID": 1,
+	"name": "Lotte Mart Gò Vấp",
+	"address": "242, Nguyễn Văn Lượng, Phường 10, Quận Gò Vấp, Hồ Chí Minh",
+	"phoneNo":"+84 28 3895 0907",
+        "lat":  10.8381944,
+        "lng": 106.6707505,
+	"placeImgURL":"http://www.dongasecurity.com/uploads/index/bao-ve-lotte_mart.jpg",
+	"websiteURL":"lottemart.com.vn",
+	"hours":"07:30–22:00"
+      }, 
+      {
+	"placeID": 2,
+        "name": "Emart Go Vap",
+	"address": "366 Phan Văn Trị, phường 5, Gò Vấp, Hồ Chí Minh",
+	"phoneNo":"+84 8 3588 6789",
+        "lat":  10.8232427,
+        "lng":	106.6911711,
+	"placeImgURL":"http://cms.kienthuc.net.vn/uploaded/ngoclinh/2015_12_29/newfolder4/dai-sieu-thi-han-quoc-vua-do-bo-co-gi-hut-khach-hinh-4.jpg",
+	"websiteURL": "emart.com.vn",
+	"hours":"07:30-22:30"
+      },
+	{
+	"placeID": 3,
+        "name": "Co.opmart Lý Thường Kiệt",
+	"address": "497 Hoà Hảo, phường 7, Quận 10, Hồ Chí Minh",
+	"phoneNo":"+84 8 3957 2857",
+        "lat":  10.7595432,
+        "lng":	106.6590789,
+	"placeImgURL":"http://www.sondecal.com/upload/products/quangcaobenngoai/ly-thuong-kiet-ngay.jpg",
+	"websiteURL": "co-opmart.com.vn",
+	"hours":"08:00-22:00"
+      },
+	{
+	"placeID": 4,
+        "name": "Big C Go Vap",
+	"address": "792 Nguyễn Kiệm, Phường 3, Gò Vấp, Hồ Chí Minh",
+	"phoneNo":"+84 8 3957 2857",
+        "lat":  10.8255114,
+        "lng":	106.6779749,
+	"placeImgURL":"https://www.mapvn.com/sites/default/files/styles/display_1280x800/public/caidm/place/660/big-c-go-vap-0.jpg?itok=j-3_SFFX",
+	"websiteURL": "bigc.vn",
+	"hours":"07:00-22:00"
+      },
+	{
+	"placeID": 5,
+        "name": "Tokyo Mart",
+	"address": "18 Cộng Hòa, 4, Tân Bình, Hồ Chí Minh, Việt Nam",
+	"phoneNo":"+84 28 3811 8877",
+        "lat": 10.8014642,
+        "lng":	106.6522679,
+	"placeImgURL":"https://lh4.googleusercontent.com/-TblbXLmgzZs/WISxOYoIK_I/AAAAAAAAVeg/-dG3UId_nwYfW7tG5UKaUPSj6ooVrf3eQCLIB/w408-h306-k-no/",
+	"websiteURL": "tokyomart.vn",
+	"hours":"08:00-21:00"
+      },
+	{
+	"placeID": 6,
+        "name": "Siêu thị Auchan",
+	"address": "11 Trường Sơn, Phường 15, Quận 10, Hồ Chí Minh",
+	"phoneNo":"+84 8 3977 8890",
+        "lat": 10.7838333,
+        "lng":	106.6635619,
+	"placeImgURL":"http://tapchibanle.org/wp-content/uploads/2016/01/tap-doan-ban-le-phap-sap-mo-them-15-cua-hang-tai-tphcm-trong-nam-2016.jpg",
+	"websiteURL": "auchan.vn",
+	"hours":"07:30-22:00"
+      },
+      
+	{
+	"placeID": 7,
+        "name": "Co.opmart Nguyễn Đình Chiểu",
+	"address": "168 Nguyễn Đình Chiểu, phường 6, Quận 3, phường 6 Quận 3 Hồ Chí Minh, Việt Nam",
+	"phoneNo":"+84 28 3930 1384",
+        "lat": 10.7814762,
+        "lng":	106.6901743,
+      "placeImgURL":"https://media.foody.vn/res/g13/121996/prof/s480x300/foody-mobile-foody-sieu-thi-coopm-827-635594176321697777.jpeg",
+	"websiteURL": "co-opmart.com.vn",
+	"hours":"07:30-21:30"
+      },
+	
+	{
+	"placeID": 8,
+        "name": "Co.opmart Dinh Tien Hoang",
+	"address": "127 Đinh Tiên Hoàng, phường 3, Bình Thạnh, Hồ Chí Minh, Việt Nam",
+	"phoneNo":"+84 8 3510 0090",
+        "lat": 10.8002279,
+        "lng":	106.6940741,
+	"placeImgURL":"https://media.foody.vn/res/g10/99572/prof/s576x330/foody-mobile-25-2-jpg-891-635503700608291780.jpg",
+	"websiteURL": "co-opmart.com.vn",
+	"hours":"08:00-22:00"
+      },
+	{
+	"placeID": 9,
+	"name": "Ben Thanh Market",
+	"address": "Đường Lê Lợi, Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+	"phoneNo":"+84 8 3829 9274",
+        "lat": 10.7720588,
+        "lng":	106.6961295,
+	"placeImgURL":"",
+	"websiteURL": "chobenthanh.org.vn",
+	"hours":"07:00-19:00"
+	},
+	
+	{
+	"placeID": 10,
+	"name": "Chợ Nguyễn Văn Trỗi",
+	"address": "209/32 Lê Văn Sỹ, Phường 13, Hồ Chí Minh, Việt Nam",
+	"phoneNo":"",
+        "lat": 10.786463,
+        "lng":	106.6777586,
+	"placeImgURL":"http://trungtammuasam.biz/wp-content/uploads/cho-nguyen-van-troi1.jpg",
+	"websiteURL": "chonguyenvantroi.com",
+	"hours":"05:30-18:00"
+	},
+	{
+	"placeID": 11,
+	"name": "Chợ Xóm Chiếu",
+	"address": "Lê Quốc Hưng, phường 12, Quận 4, Hồ Chí Minh, Việt Nam",
+	"phoneNo":"+84 28 3940 1355",
+        "lat": 10.7635934,
+        "lng":	106.7037383,
+	"placeImgURL":"http://photos.wikimapia.org/p/00/01/65/85/16_big.jpg",
+	"websiteURL": "",
+	"hours":"05:00-23:00"
+	},
+	{
+	"placeID": 12,
+	"name": "Chợ Kim Biên",
+	"address": "Vạn Tượng, phường 13, Quận 5, Hồ Chí Minh, Việt Nam",
+	"phoneNo":"+84 8 3855 1557",
+        "lat": 10.7501111,
+        "lng":	106.65379,
+	"placeImgURL":"http://sohanews.sohacdn.com/zoom/700_438/2016/01-1464395194998-0-0-378-514-crop-1464395200952.jpg",
+	"websiteURL": "",
+	"hours":"06:00–18:00"
+	},
+	{
+	"placeID": 13,
+	"name": "Chợ Bình Tây",
+	"address": "22 đường Trần Bình, phường 2, Quận 6, Hồ Chí Minh, Việt Nam",
+	"phoneNo":"+84 94 908 83 86",
+        "lat": 10.7494019,
+        "lng":	106.6489464,
+	"placeImgURL":"http://ilovesaigon.net/wp-content/uploads/2016/07/cho-binh-tay-cho-lon.jpg",
+	"websiteURL": "",
+	"hours":"08:00–22:00"
+	},
+	{
+	"placeID": 14,
+	"name": "Chợ Gò Vấp",
+	"address": "188 Nguyễn Văn Nghi, phường 5, Gò Vấp, Hồ Chí Minh, Việt Nam",
+	"phoneNo":"+84 8 3894 2361",
+        "lat": 10.824075,
+        "lng":	106.6843846,
+	"placeImgURL":"http://static.panoramio.com/photos/large/23060150.jpg",
+	"websiteURL": "",
+	"hours":"Mở cửa cả ngày"
+	},
+	{
+	"placeID": 15,
+	"name": "Chợ Phạm Văn Hai",
+	"address": "CHỢ PHẠM VĂN HAI P.3, Q.TB, TP. HCM",
+	"phoneNo":"+84 93 783 78 88",
+        "lat": 10.7943893,
+        "lng":	106.660898,
+	"placeImgURL":"https://upvinalo.com/18042015/o1ffNRAwI9xdfSQ.jpeg",
+	"websiteURL": "",
+	"hours":"04:00-21:30"
+	}
+    ], 

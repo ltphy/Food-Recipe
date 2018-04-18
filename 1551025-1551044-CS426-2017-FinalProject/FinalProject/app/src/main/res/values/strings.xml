@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Final Project</string>
+    <string name="facebook_app_id">134810510447669</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="call_dialog_title">Call Dialog</string>
+    <string name="call_dialog_message">Do you want to make a call to </string>
+
+    <string name="web_dialog_title">Web Dialog</string>
+    <string name="web_dialog_message">Do you want to open this website? </string>
+
+    <string name="map_dialog_title">Map Dialog</string>
+    <string name="map_dialog_message">Do you want to show this place on map? </string>
+    <string name="ok">ok</string>
+    <string name="cancel">cancel</string>
+    <string-array name="sorts_type">
+        <item>Distance</item>
+        <item>Name</item>
+    </string-array>
+</resources>
